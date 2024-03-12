@@ -1,0 +1,1 @@
+This repository contains a Java implementation of a Branch and Bound algorithm to solve mazes. The algorithm explores the maze using a systematic approach to find the shortest path from the start to the exit, beign able to solve a mazes from 5x5 to 255x255 squares.
